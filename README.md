@@ -38,4 +38,4 @@ A clean and elegant Zsh prompt designed for developers who want a functional, Gi
 ---
 
 ## ⚙️ Installation
-see[ohmyzsh/wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Customization#overriding-and-adding-themes)
+see [ohmyzsh/wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Customization#overriding-and-adding-themes)
