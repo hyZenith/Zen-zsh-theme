@@ -68,4 +68,3 @@ function print_prompt() {
 
 # Set the prompt
 PROMPT='$(print_prompt)'
-RPROMPT=''
