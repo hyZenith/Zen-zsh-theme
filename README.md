@@ -31,13 +31,11 @@ A clean and elegant Zsh prompt designed for developers who want a functional, Gi
 
 ## 📸 Preview
 
-> 📌 **Replace the image URL below with your screenshot (e.g., from GitHub, Imgur, etc.)**
+> 📌 
 
-![My Zsh Theme Preview](/Screenshot_20250507_194126.png)
+![My Zsh Theme Preview](/Prompt.png)
 
 ---
 
 ## ⚙️ Installation
-
-### Option 1: Manual
-
+see([ohmyzsh/wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Customization#overriding-and-adding-themes))
